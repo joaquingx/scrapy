@@ -32,6 +32,7 @@ install_requires = [
     'zope.interface>=4.1.3',
     'protego>=0.1.15',
     'itemadapter>=0.1.0',
+    "difflib>=2.4.0",
 ]
 extras_require = {}
 
